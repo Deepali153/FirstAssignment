@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+   text-align:left;
+    display:inline;
+    line-height: 40px; 
+    margin-right:20px;
+}
+.dateinput{
+ 
+    display:inline;
+    float:right;
+}

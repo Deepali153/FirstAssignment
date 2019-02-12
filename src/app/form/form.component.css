@@ -1,0 +1,55 @@
+input
+{
+    height: 20px;
+    margin-right: 10px;
+}
+button
+{
+    margin-right: 15px;
+}
+
+app-form
+{
+    width: 100%;
+}
+
+.icnn
+{
+    position: absolute;
+    margin-top: 1px;
+}
+
+#btn1
+{
+    font-size: 40px;
+    vertical-align: middle;
+}
+.mat-stroked-button
+{
+    border: 1px solid black;
+    
+}
+input
+{
+    
+        border: 1px solid black;
+        height: 18px;
+        width: 300px;
+        padding: 10px;
+    
+}
+
+.submit
+{
+
+    color: blue;
+}
+
+
+
+.btn{
+    text-align:left;
+    font-size: 22px;
+    font-family: sans-serif;
+    
+}
